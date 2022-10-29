@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Schedule Planner</string>
+    <string name="title">Schedule Planner</string>
+    <string name="upNextTitle">Up Next</string>
+    <string name="time">9:00 am</string>
+    <string name="scheduled">      You Have Nothing Scheduled</string>
+
+    <string name="Events">Event</string>
+    <string name="Activity">Activity</string>
+    <string name="Holidays">Holiday</string>
+    <string name="Exams">Exam</string>
+    <string name="Lists">List</string>
+    <string name="Refresh">Refresh</string>
+    <string name="plus">+</string>
+    <string name="fileName">Name Of File</string>
+    <string name="addEvent">Add Event</string>
+    <string name="eventName">Name Of Event</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+</resources>
